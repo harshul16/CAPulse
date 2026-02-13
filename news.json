@@ -1,1 +1,21 @@
+[
+  {
+    "title": "RBI keeps repo rate unchanged",
+    "category": "Banking",
+    "summary": "The RBI has maintained the repo rate, signalling a stable monetary policy stance amid inflation concerns. This impacts borrowing costs and financial planning.",
+    "link": "https://www.rbi.org.in"
+  },
+  {
+    "title": "GST Council issues clarification on ITC eligibility",
+    "category": "GST",
+    "summary": "A new clarification has been issued on Input Tax Credit eligibility, impacting compliance and credit claims for registered taxpayers.",
+    "link": "https://www.gstcouncil.gov.in"
+  },
+  {
+    "title": "MCA notifies amendments to Companies (Accounts) Rules",
+    "category": "Corporate Law",
+    "summary": "The Ministry of Corporate Affairs has notified amendments affecting disclosure and compliance requirements under the Companies Act.",
+    "link": "https://www.mca.gov.in"
+  }
+]
 
